@@ -21,8 +21,8 @@
 		"afterPeace": "I am glad to see the triumph of justice over brutality and of humanity over tyranny.",
 		"tradeRequest": "I believe I can benefit both our nations with this offer.",
 
-		"outerColor": [14,216,0],
-		"innerColor": [189,193,52],
+		"outerColor": [51,153,255],
+		"innerColor": [218,37,29],
 		"uniques": [
 "[All] units gain the [Guerrilla] promotion"
 ]
