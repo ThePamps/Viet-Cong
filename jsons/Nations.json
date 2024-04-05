@@ -3,7 +3,7 @@
 		"name": "Viet Cong",
 		"leaderName": "Ho Chi Minh",
 		"adjective": ["National Liberation Front"],
-        "startBias": ["Avoid [Coast]","Jungle"],
+        "startBias": ["Jungle"],
 		"preferredVictoryType": "Domination]",
 		
 		"startIntroPart1": "You are Ho Chi Minh.",
