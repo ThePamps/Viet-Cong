@@ -1,0 +1,31 @@
+[
+	{
+		"name": "Viet Cong",
+		"leaderName": "Ho Chi Minh",
+		"adjective": ["National Liberation Front"],
+        "startBias": ["Avoid [Coast]","Jungle"],
+		"preferredVictoryType": "Domination]",
+		
+		"startIntroPart1": "You are Ho Chi Minh.",
+		"startIntroPart2": "You follow only one party: the Vietnamese party, lead your people to freedom and peace.",
+		
+		"declaringWar": "You can kill ten of our men for every one we kill of yours. But even at those odds, you will lose and we will win.",
+		"attacked": "You can kill ten of our men for every one we kill of yours. But even at those odds, you will lose and we will win.",
+		"defeated": "The people of Indochina will live on.",
+		"introduction": "Freedom for my people, independence for my country, this is all I want, all that I understand.",
+		
+		"neutralHello": "I'm very moved to be here today, ... Our lives are now much better, but we remain a very poor country. We need to work much harder.",
+		"hateHello": "You imperialists supply armaments to your henchmen to massacre our people. You dump your goods in our lands to prevent the development of local handicrafts. Your pornographic culture depraves the youth in areas placed under your control.",
+		
+		
+		"afterPeace": "I am glad to see the triumph of justice over brutality and of humanity over tyranny.",
+		"tradeRequest": "I believe I can benefit both our nations with this offer.",
+
+		"outerColor": [14,216,0],
+		"innerColor": [189,193,52],
+		"unique": [
+"[All] units gain the [Guerrilla] promotion"
+]
+		"cities": ["Lộc Ninh","Tân Lập","Củ Chi","May Tao","Hát Dịch","Hố Bò"]
+	}
+]

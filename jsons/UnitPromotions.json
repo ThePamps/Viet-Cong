@@ -1,0 +1,8 @@
+[
+     {
+        "name": "Guerilla", // Viet Cong Perk
+        "uniques": [
+            "Invisible to non-adjacent units"
+        ]
+    },
+]
